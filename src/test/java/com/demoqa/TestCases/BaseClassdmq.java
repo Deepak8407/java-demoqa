@@ -42,7 +42,7 @@ public class BaseClassdmq {
 	@BeforeTest
 	public void setup()
 	{
-		extentReport = new ExtentReports();
+		extentReport = new  ExtentReports();
 		sparkReporter = new ExtentSparkReporter(new File(System.getProperty("user.dir")+ "\\Reports\\extent-report.html"));
 		extentReport.attachReporter(sparkReporter);
 		System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir")+"//Drivers//chromedriver.exe");
