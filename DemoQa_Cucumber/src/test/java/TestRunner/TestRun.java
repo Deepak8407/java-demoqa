@@ -6,9 +6,9 @@ import org.junit.runner.RunWith;
 
 
 @RunWith(Cucumber.class)
-@CucumberOptions(tags="@DataDriven", glue="StepDefinition", monochrome=true,
+@CucumberOptions(tags="@RestAPIScnario1", glue="StepDefinition", monochrome=true,
 		plugin= {"pretty","html:test-output.html"},
-		features="./Features",
+		features="./src/test/resources",
 		dryRun=false)
 		
 public class TestRun {

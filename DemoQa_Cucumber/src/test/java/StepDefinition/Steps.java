@@ -151,5 +151,4 @@ public class Steps extends baseClass {
 	@Then("User should found email in the search table")
 	public void user_should_found_email_in_the_search_table() {
 	}
-
 }
