@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Deepak Yadav/Cucumber_Jar_files/jar_files/apiguardian-api-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak Yadav/Cucumber_Jar_files/jar_files/ci-environment-9.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak Yadav/Cucumber_Jar_files/jar_files/cucumber-core-7.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak Yadav/Cucumber_Jar_files/jar_files/cucumber-expressions-15.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak Yadav/Cucumber_Jar_files/jar_files/cucumber-gherkin-7.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak Yadav/Cucumber_Jar_files/jar_files/cucumber-gherkin-messages-7.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak Yadav/Cucumber_Jar_files/jar_files/cucumber-junit-7.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak Yadav/Cucumber_Jar_files/jar_files/cucumber-plugin-7.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak Yadav/Cucumber_Jar_files/jar_files/datatable-7.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak Yadav/Cucumber_Jar_files/jar_files/docstring-7.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak Yadav/Cucumber_Jar_files/jar_files/gherkin-23.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak Yadav/Cucumber_Jar_files/jar_files/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak Yadav/Cucumber_Jar_files/jar_files/html-formatter-19.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak Yadav/Cucumber_Jar_files/jar_files/junit-4.13.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak Yadav/Cucumber_Jar_files/jar_files/messages-18.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Deepak Yadav/Cucumber_Jar_files/jar_files/tag-expressions-4.1.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
